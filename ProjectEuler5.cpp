@@ -54,3 +54,8 @@ int mmc(int a,int b){
 	return v_mmc;
 }
 
+/*
+2520 é o menor número que pode ser dividido por cada um dos números de 1 a 10 sem nenhum resto.
+
+Qual é o menor número positivo que é igualmente divisível por todos os números de 1 a 20?
+*/
