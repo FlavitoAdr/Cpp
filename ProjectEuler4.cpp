@@ -27,3 +27,8 @@ int main(){
 	
 	return 0;
 }
+/*
+Um número palíndrico lê da mesma maneira nos dois sentidos. O maior palíndromo produzido a partir do produto de dois números de dois dígitos é 9009 = 91 × 99.
+
+Encontre o maior palíndromo produzido a partir do produto de dois números de 3 dígitos.
+*/
