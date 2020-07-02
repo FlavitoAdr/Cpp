@@ -81,3 +81,18 @@ int calcular(){
 	
 	return domingo;
 }
+
+/*
+Você recebe as seguintes informações, mas pode preferir fazer alguma pesquisa por si mesmo.
+
+1 de janeiro de 1900 era uma segunda-feira.
+Trinta dias tem setembro,
+abril, junho e novembro.
+Todo o resto tem trinta e um,
+economizando fevereiro apenas,
+com vinte e oito, faça chuva ou faça sol.
+E em anos bissextos, vinte e nove.
+Um ano bissexto ocorre em qualquer ano igualmente divisível por 4, mas não em um século, a menos que seja divisível por 400.
+
+Quantos domingos caíram no primeiro dia do mês durante o século XX (1 de janeiro de 1901 a 31 de dezembro de 2000)?
+*/
