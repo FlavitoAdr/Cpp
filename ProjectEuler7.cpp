@@ -32,3 +32,9 @@ void gerar_primos(){
 		}
 	}
 }
+
+/*
+Listando os seis primeiros números primos: 2, 3, 5, 7, 11 e 13, podemos ver que o sexto primo é 13.
+
+Qual é o número primo 10 001?
+*/
