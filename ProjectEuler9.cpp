@@ -18,3 +18,13 @@ int main(){
 	
 	return 0;
 }
+
+/*
+Um trigêmeo pitagórico é um conjunto de três números naturais, a < b < c , para os quais,
+
+a^2 + b^2 = c^2
+Por exemplo, 3^2 + 4^2 = 9 + 16 = 25 = 5^2 .
+
+Existe exatamente um trigêmeo pitagórico para o qual a + b + c = 1000.
+Encontre o produto abc .
+*/
